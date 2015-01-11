@@ -1,0 +1,9 @@
+[package]
+
+name="RustyNote"
+version="0.0.1"
+authors=[ "Jim Nutt <jim@nuttz.org>" ]
+
+[[bin]]
+
+name="rustynote"

@@ -1,0 +1,14 @@
+RustyNote
+
+Native Evernote client for Linux written in Rust.
+
+1) Authentication and authorization from Evernote servers
+2) Retrieve notebooks and notes from Evernote servers
+3) Edit notes
+4) Save notes to server
+5) Search / Tags
+
+Get API key from Evernote
+Consumer Key: jimnutt
+Consumer Secret: d59d7011f4434d2b
+Application Name: RustyNote
